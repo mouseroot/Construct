@@ -2,7 +2,7 @@
 Create energetic constructs.
 
 
-```
+```python
 Absorber = Construct("Absorber")
 Battery = Construct("Battery")
 Absorber.program("Absorb ambient energy")
